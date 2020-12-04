@@ -1,0 +1,17 @@
+[package]
+name = "glitch_oct"
+version = "0.1.0"
+authors = ["Lorenzo Panieri <panierilorenzo@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+vst = "0.2.1"
+rand_xoshiro = "0.4.0"
+dialog = "0.3.0"
+log = "0.4.11"
+
+[lib]
+name = "glitch_oct"
+crate-type = ["cdylib"]
