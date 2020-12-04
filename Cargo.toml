@@ -1,5 +1,5 @@
 [package]
-name = "glitch_oct"
+name = "glitch_div"
 version = "0.1.0"
 authors = ["Lorenzo Panieri <panierilorenzo@gmail.com>"]
 edition = "2018"
@@ -13,5 +13,5 @@ dialog = "0.3.0"
 log = "0.4.11"
 
 [lib]
-name = "glitch_oct"
+name = "glitch_div"
 crate-type = ["cdylib"]

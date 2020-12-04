@@ -119,7 +119,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "glitch_oct"
+name = "glitch_div"
 version = "0.1.0"
 dependencies = [
  "dialog",
